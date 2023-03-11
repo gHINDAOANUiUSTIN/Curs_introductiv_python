@@ -86,6 +86,9 @@ class Angajat():
         self.prenume = prenume
         self.salariu = salariu
 
+
+
+
     # Metode:
     # ● descrie()
     def descrie(self):
